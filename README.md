@@ -60,5 +60,6 @@ The [HTRU2 dataset](https://archive.ics.uci.edu/ml/datasets/HTRU2) consists of 1
 
 3. Run the analysis script:
    ```bash
-   python src/train_and_evaluate.py
+   python main.py
+   python test.py
    ```
