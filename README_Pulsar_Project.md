@@ -44,14 +44,6 @@ The [HTRU2 dataset](https://archive.ics.uci.edu/ml/datasets/HTRU2) consists of 1
 - PCA improved performance when reduced to **7 principal components**
 - Score calibration significantly improved decision-making in imbalanced settings
 
-## 📁 Structure
-
-```
-├── data/                 # Raw and processed datasets
-├── src/                  # Core scripts (training, PCA, evaluation)
-├── plots/                # Evaluation plots (ROC, DCF curves, etc.)
-└── report/               # Final PDF report
-```
 
 ## 🚀 How to Run
 
@@ -70,7 +62,3 @@ The [HTRU2 dataset](https://archive.ics.uci.edu/ml/datasets/HTRU2) consists of 1
    ```bash
    python src/train_and_evaluate.py
    ```
-
-## 📬 Contact
-
-For any questions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-link) or email.
